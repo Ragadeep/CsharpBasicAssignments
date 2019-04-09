@@ -1,0 +1,15 @@
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\bin\Debug\RagaHelloWorld.exe.config
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\bin\Debug\RagaHelloWorld.exe
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\bin\Debug\RagaHelloWorld.pdb
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld.csprojAssemblyReference.cache
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\MainWindow.g.cs
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\App.g.cs
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld_MarkupCompile.cache
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld_MarkupCompile.lref
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\MainWindow.baml
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld.g.resources
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld.Properties.Resources.resources
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld.csproj.GenerateResource.cache
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld.csproj.CoreCompileInputs.cache
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld.exe
+c:\users\hemamotupalli\source\repos\RagaHelloWorld\RagaHelloWorld\obj\Debug\RagaHelloWorld.pdb

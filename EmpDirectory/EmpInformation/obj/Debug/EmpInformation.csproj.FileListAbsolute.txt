@@ -1,0 +1,13 @@
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\bin\Debug\EmpInformation.exe.config
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\bin\Debug\EmpInformation.exe
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\bin\Debug\EmpInformation.pdb
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.csprojAssemblyReference.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.Properties.Resources.resources
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.csproj.GenerateResource.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.csproj.CoreCompileInputs.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.exe
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.pdb
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\bin\Debug\EmpInfo.dll
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\bin\Debug\EmpInfo.pdb
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.EmpInfo.resources
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInformation\obj\Debug\EmpInformation.csproj.CopyComplete

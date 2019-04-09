@@ -1,0 +1,8 @@
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\bin\Debug\netstandard1.4\EmpInfo.deps.json
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\bin\Debug\netstandard1.4\EmpInfo.dll
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\bin\Debug\netstandard1.4\EmpInfo.pdb
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.csprojAssemblyReference.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.csproj.CoreCompileInputs.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.AssemblyInfo.cs
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.dll
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.pdb
